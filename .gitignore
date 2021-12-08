@@ -3,5 +3,5 @@
 /project/target/
 /target/
 /target/scala-3.1.0/classes/
-/.bsp/
-/.idea/
+/.bsp
+/.idea
