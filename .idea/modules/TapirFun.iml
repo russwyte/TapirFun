@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/Users/russ/projects/scratch/TapirFun/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/../../target/scala-3.1.0/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-3.1.0/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: co.fs2:fs2-core_3:3.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.magnolia1_3:magnolia_3:1.0.0-M7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.magnolia:magnolia-core_3:2.0.0-M9:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.model:core_3:1.4.18:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:core_3:1.2.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:ws_3:1.2.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.shared:zio_3:1.2.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-apispec-docs_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-apispec-model_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-core_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-json-zio_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-openapi-circe-yaml_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-openapi-circe_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-openapi-docs_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-openapi-model_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-swagger-ui-bundle_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-swagger-ui_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-zio-http-server_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.softwaremill.sttp.tapir:tapir-zio_3:0.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect-thirdparty-boopickle-shaded_3:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect_3:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-interop-cats_3:3.1.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-json_3:0.2.0-M2:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-stacktracer_3:1.0.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-streams_3:1.0.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-test_3:1.0.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio_3:1.0.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-core_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-generic_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-jawn_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-numbers_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-parser_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-yaml_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.d11:zhttp_3:1.0.0.0-RC17:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-all:4.1.65.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.portable-scala:portable-scala-reflect_2.13:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_3:2.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scodec:scodec-bits_3:1.1.27:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_3:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect-kernel_3:3.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect-std_3:3.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect_3:3.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_3:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-mtl_3:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:jawn-parser_3:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:simulacrum-scalafix-annotations_3:0.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.webjars:swagger-ui:4.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.yaml:snakeyaml:1.28:jar" level="project" />
+  </component>
+</module>
